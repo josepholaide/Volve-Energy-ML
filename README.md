@@ -9,7 +9,7 @@ Train set
 15_9-F-1B.LAS
 
 Test set
-15_9-F-1B.LAS
+15_9-F-1A.LAS
 ```
 
 ## Kubeflow Pipeline
