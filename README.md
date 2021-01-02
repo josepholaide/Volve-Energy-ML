@@ -5,11 +5,11 @@ Three wells from the volve data were taken into consideration for this predictio
 The following wells were used
 
 Train set
-5_9-F-11A.LAS
-5_9-F-1B.LAS
+15_9-F-11A.LAS
+15_9-F-1B.LAS
 
 Test set
-5_9-F-1B.LAS
+15_9-F-1B.LAS
 ```
 
 ## Kubeflow Pipeline
