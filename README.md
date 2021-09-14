@@ -15,7 +15,8 @@ Test set
 ## Kubeflow Pipeline
 To view the kubeflow pipeline of this workflow, click [here](https://github.com/Josepholaidepetro/Volve_ML/blob/main/pipeline/dt_kubeflow.pdf).
 
-![alt text](https://github.com/Josepholaidepetro/Sonic-Log-Prediction/blob/main/images/kubeflow_sc.jpg?raw=true)
-
+<p>
+<img src="https://github.com/Josepholaidepetro/Sonic-Log-Prediction/blob/main/images/kubeflow_sc.jpg?raw=true" alt="kubeflow pipeline" width="150" height="150"/>
+</p>
 ## Result
 ![alt text](https://github.com/Josepholaidepetro/Sonic-Log-Prediction/blob/main/images/preddt2.png?raw=true)
