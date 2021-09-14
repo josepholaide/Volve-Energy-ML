@@ -16,11 +16,11 @@ Test set
 To view the kubeflow pipeline of this workflow, click [here](https://github.com/Josepholaidepetro/Volve_ML/blob/main/pipeline/dt_kubeflow.pdf).
 
 <p>
-<img src="https://github.com/Josepholaidepetro/Sonic-Log-Prediction/blob/main/images/kubeflow_sc.jpg?raw=true" alt="kubeflow pipeline" width="1050" height="850"/>
+<img src="https://github.com/Josepholaidepetro/Sonic-Log-Prediction/blob/main/images/kubeflow_sc.jpg?raw=true" alt="kubeflow pipeline" width="750" height="550"/>
 </p>
 
 
 ## Result
 <p>
-<img src="https://github.com/Josepholaidepetro/Sonic-Log-Prediction/blob/main/images/preddt2.png?raw=true" alt="kubeflow pipeline" width="1050" height="850"/>
+<img src="https://github.com/Josepholaidepetro/Sonic-Log-Prediction/blob/main/images/preddt2.png?raw=true" alt="kubeflow pipeline" width="750" height="550"/>
  </p>
